@@ -1,7 +1,7 @@
 # Laboratory of Physical Datasets - B (2026)
 ## Final Project • University of Padova
 
-This repository is an adaptation of the original Proof of Concept (PoC) project found [https://github.com/ecmwf/AI-Probability-of-Fire](URL). 
+This repository is an adaptation of the original Probability of Fire (POF) project found [https://github.com/ecmwf/AI-Probability-of-Fire](URL). 
 
 It features detailed code explanations and comprehensive descriptions of each notebook to simplify future updates, modifications, and implementations.
 
