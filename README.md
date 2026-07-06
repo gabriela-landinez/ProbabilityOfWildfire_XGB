@@ -7,26 +7,26 @@ It features detailed code explanations and comprehensive descriptions of each no
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 * **Course:** Laboratory of Physical Datasets - B (2026)
 * **Institution:** Università degli Studi di Padova
 * **Purpose:** Final Course Project
 
-## 📖 Features & Documentation
+##  Features & Documentation
 * **Code Explanations:** Detailed walk-throughs of the implemented logic.
 * **Notebook Descriptions:** Clear documentation inside each notebook detailing its purpose, making it easy to introduce future changes and new features.
 * **Upstream Adaptation:** Custom adjustments built upon the baseline repository.
 
 ---
 
-## 📓 Original Notebooks
+##  Original Notebooks
 The original notebooks from the upstream repository are hosted on GitHub:
 
 https://github.com/ecmwf/AI-Probability-of-Fire
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 **Important:** The European Centre for Medium-Range Weather Forecasts (ECMWF) does not provide any official support for these Notebooks, this is an academic excercise.
 
 ## 📄 License
