@@ -11,6 +11,11 @@ It features detailed code explanations and comprehensive descriptions of each no
 * **Course:** Laboratory of Physical Datasets - B (2026)
 * **Institution:** Università degli Studi di Padova
 * **Purpose:** Final Course Project
+*  **Students:**
+*  -Grabiela Landinez [https://github.com/gabriela-landinez](URL)
+*  -Andres Rojas [https://github.com/androjaslo](URL) 
+*  -Fatemeh Dashti  [https://github.com/FatemehDashti](URL)
+*  -Arash Jamshidi [https://github.com/Arashtjamshidi](URL)
 
 ##  Features & Documentation
 * **Code Explanations:** Detailed walk-throughs of the implemented logic.
