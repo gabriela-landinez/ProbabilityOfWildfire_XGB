@@ -12,10 +12,10 @@ It features detailed code explanations and comprehensive descriptions of each no
 * **Institution:** Università degli Studi di Padova
 * **Purpose:** Final Course Project
 *  **Students:**
-* -[Gabriela Landinez](https://github.com/gabriela-landinez)
-* -[Andrés Rojas](https://github.com/androjaslo)
-* -[Fatemeh Dashti](https://github.com/FatemehDashti)
-* -[Arash Jamshidi](https://github.com/Arashtjamshidi)
+  * [Gabriela Landinez](https://github.com/gabriela-landinez)
+  * [Andrés Rojas](https://github.com/androjaslo)
+  * [Fatemeh Dashti](https://github.com/FatemehDashti)
+  * [Arash Jamshidi](https://github.com/Arashtjamshidi)
 
 ##  Features & Documentation
 * **Code Explanations:** Detailed walk-throughs of the implemented logic.
